@@ -3,8 +3,8 @@
  * Gestiona la lógica del catálogo de productos
  */
 
-import { CATALOG_PRODUCTS } from '../js/config/storeData.js';
-import { COLOR_NAMES, COLOR_MAP } from '../js/config/color.js';
+import { CATALOG_PRODUCTS } from './catalogData.js';
+import { COLOR_NAMES, COLOR_MAP } from './color.js';
 
 /**
  * Clase para gestionar el catálogo
