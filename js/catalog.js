@@ -2,7 +2,7 @@
  * 📦 MÓDULO DE CATÁLOGO
  * Gestiona la lógica del catálogo de productos
  */
-
+// Corregir imports
 import { CATALOG_PRODUCTS } from './catalogData.js';
 import { COLOR_NAMES, COLOR_MAP } from './color.js';
 
